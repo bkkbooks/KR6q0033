@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6q0033_000.yaml, hash: 'sha256:442b9ea8bf280c13d3219136d45850c24fe4a67c1d8857967b8eda54d0576b01'}
-  - {seq: 1, filename: KR6q0033_001.yaml, hash: 'sha256:6315078e79de1b0bfc12a2663b98d35b7be38599b087e60e942b616df5c5c998'}
+  - {seq: 1, filename: KR6q0033_001.yaml, hash: 'sha256:f07a4e10b7f76d5afa73807081f0bbd90c0b0571dd27b0e535a7ee5258a985ad'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6q0033_001.markers.yaml, hash: 'sha256:aa713e92aab862d4d5e355b92d02b250ebef2492186b96cf6540e05fc8fbadb4'}
+  - {seq: 0, role: markers, filename: assets/KR6q0033_000.markers.yaml, hash: 'sha256:8094831ec9441e31b0bf22632ffd44fbf9968f3b132439cb5fa4eacfa6cf02cf'}
+  - {seq: 1, role: markers, filename: assets/KR6q0033_001.markers.yaml, hash: 'sha256:5143b7ef535d29e47b96c284d014dccd2c6ef932ffb8b481ace651c6dd8ad090'}
 table_of_contents:
 - ref:
     seq: 1
@@ -516,7 +517,4 @@ table_of_contents:
   label: 揚州西方南源信禪師
   type: mulu
   level: 1
-hash: sha256:2a7e7d06ae577a579f89a472401cac9453841edba129ebbca68ef2cdcfa322f7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1972e7142bc51cc3d2c1fccb88dcaf4c179253b8e02813943c972930d85ea021
